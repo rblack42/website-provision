@@ -1,0 +1,13 @@
+[local]
+localhost
+
+[rackspace]
+www.co-pylit.org
+www.pylit.org
+
+[rackspace:vars]
+ansible_port=5224
+
+[digitalocean]
+www.roieblack.org
+www.hotera.org
